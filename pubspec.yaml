@@ -1,0 +1,37 @@
+name: owwn_coding_challenge
+description: OWWN Coding Challenge.
+publish_to: "none"
+
+version: 2.0.0+2
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+  flutter: ">=3.3.6"
+
+dependencies:
+  dio: ^4.0.6
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.0.2
+  flutter_statusbarcolor_ns: ^0.5.0
+  google_fonts: ^3.0.1
+  json_annotation: ^4.7.0
+  logger: ^1.1.0
+  retrofit: ^3.3.1
+  riverpod_annotation: ^1.0.4
+
+dev_dependencies:
+  build_runner: null
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.5.4
+  lint: ^1.10.0
+  retrofit_generator: ^4.2.0
+  riverpod_generator: ^1.0.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/
