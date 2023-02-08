@@ -1,12 +1,12 @@
 name: owwn_coding_challenge
 description: OWWN Coding Challenge.
-publish_to: "none"
+publish_to: 'none'
 
 version: 2.0.0+2
 
 environment:
-  sdk: ">=2.18.2 <3.0.0"
-  flutter: ">=3.3.6"
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: '>=3.3.6'
 
 dependencies:
   dio: ^4.0.6
@@ -34,4 +34,4 @@ flutter:
   uses-material-design: true
 
   assets:
-  - assets/
+    - assets/

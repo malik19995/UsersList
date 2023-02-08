@@ -1,4 +1,4 @@
-# OWWN Users List Challenge
+# Users List Challenge
 
 ## Data Layer
 _________
